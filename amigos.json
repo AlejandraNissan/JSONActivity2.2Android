@@ -1,0 +1,23 @@
+[
+    {
+        "nombre": "Susana Flores",
+        "hobby": "Leer",
+        "edad": "40",
+        "telefono": "5523950493",
+        "direccion": "Lomas de las catarinas #39"
+    },
+    {
+        "nombre": "Fernando Perez",
+        "hobby": "Correr",
+        "edad": "24",
+        "telefono": "3478654328",
+        "direccion": "Periférico sur #90"
+    },
+    {
+        "nombre": "Marta Stuart",
+        "hobby": "Bailar",
+        "edad": "19",
+        "telefono": "3940582748",
+        "direccion": "Cancún, cerrada guanajuato #24"
+    }
+]
