@@ -19,5 +19,19 @@
         "edad": "19",
         "telefono": "3940582748",
         "direccion": "Cancún, cerrada guanajuato #24"
+    },
+    {
+        "nombre": "Robert Brown",
+        "hobby": "Cocinar",
+        "edad": "25",
+        "telefono": "3856402938",
+        "direccion": "Cerrada lomas altas #45"
+    },
+    {
+        "nombre": "Jane Doe",
+        "hobby": "Pintar",
+        "edad": "22",
+        "telefono": "3948573658",
+        "direccion": "Camino del lago #45"
     }
 ]
