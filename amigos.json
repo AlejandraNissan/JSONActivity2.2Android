@@ -1,42 +1,44 @@
-[
-    {
-        "id": "1",
-        "nombre": "Susana Flores",
-        "hobby": "Leer",
-        "edad": "40",
-        "telefono": "5523950493",
-        "direccion": "Lomas de las catarinas #39"
-    },
-    {
-        "id": "2",
-        "nombre": "Fernando Perez",
-        "hobby": "Correr",
-        "edad": "24",
-        "telefono": "3478654328",
-        "direccion": "Periférico sur #90"
-    },
-    {
-        "id": "3",
-        "nombre": "Marta Stuart",
-        "hobby": "Bailar",
-        "edad": "19",
-        "telefono": "3940582748",
-        "direccion": "Cancún, cerrada guanajuato #24"
-    },
-    {
-        "id": "4",
-        "nombre": "Robert Brown",
-        "hobby": "Cocinar",
-        "edad": "25",
-        "telefono": "3856402938",
-        "direccion": "Cerrada lomas altas #45"
-    },
-    {
-        "id": "5",
-        "nombre": "Jane Doe",
-        "hobby": "Pintar",
-        "edad": "22",
-        "telefono": "3948573658",
-        "direccion": "Camino del lago #45"
-    }
-]
+{
+    "amigos" : [
+        {
+            "id": "1",
+            "nombre": "Susana Flores",
+            "hobby": "Leer",
+            "edad": "40",
+            "telefono": "5523950493",
+            "direccion": "Lomas de las catarinas #39"
+        },
+        {
+            "id": "2",
+            "nombre": "Fernando Perez",
+            "hobby": "Correr",
+            "edad": "24",
+            "telefono": "3478654328",
+            "direccion": "Periférico sur #90"
+        },
+        {
+            "id": "3",
+            "nombre": "Marta Stuart",
+            "hobby": "Bailar",
+            "edad": "19",
+            "telefono": "3940582748",
+            "direccion": "Cancún, cerrada guanajuato #24"
+        },
+        {
+            "id": "4",
+            "nombre": "Robert Brown",
+            "hobby": "Cocinar",
+            "edad": "25",
+            "telefono": "3856402938",
+            "direccion": "Cerrada lomas altas #45"
+        },
+        {
+            "id": "5",
+            "nombre": "Jane Doe",
+            "hobby": "Pintar",
+            "edad": "22",
+            "telefono": "3948573658",
+            "direccion": "Camino del lago #45"
+        }
+    ]
+}
